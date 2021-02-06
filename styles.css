@@ -1,0 +1,49 @@
+/* Body start */
+
+/* Body end */
+/* header start */
+.header {
+    border-width: 5px;
+    border-color: red;
+    height: 20px;
+    width: inherit;
+    border-style: solid;
+    padding: 20px;
+    margin: 10px 0;
+}
+/* Header End */
+/* landing-page start */
+.landing-page {
+    border-width: 5px;
+    border-color: greenyellow;
+    height: 200px;
+    width: inherit;
+    border-style: solid;
+    padding: 20px;
+    margin: 10px 0;
+}
+/* landing-page end */
+/* information start */
+.information {
+    border-width: 5px;
+    border-color: blueviolet;
+    height: 100px;
+    width: inherit;
+    border-style: solid;
+    padding: 20px;
+    margin: 10px 0;
+}
+/* information end */
+/* footer start */
+.footer {
+    border-width: 5px;
+    border-color: blue;
+    height: 20px;
+    width: inherit;
+    border-style: solid;
+    padding: 20px;
+    margin: 10px 0;
+}
+/* footer end */
+
+
