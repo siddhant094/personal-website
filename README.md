@@ -1,2 +1,2 @@
 # personal-website
-This is Siddhant Pandey's Personal Brand Website........
+Go visit siddhant.is.dev
